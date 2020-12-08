@@ -1,0 +1,9 @@
+What can Azure DevOps do?
+Azure DevOps comprises a range of services covering the full development life-cycle.  At the time of writing these are:
+
+Azure Boards: agile planning, work item tracking, visualisation and reporting tool.
+Azure Pipelines: a language, platform and cloud agnostic CI/CD platform with support for containers or Kubernetes.
+Azure Repos: provides cloud-hosted private git repos.
+Azure Artifacts: provides integrated package management with support for Maven, npm, Python and NuGet package feeds from public or private sources.
+Azure Test Plans: provides an integrated planned and exploratory testing solution.
+Azure DevOps can also be used to orchestrate third-party tools.
